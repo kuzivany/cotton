@@ -1,5 +1,5 @@
-export { Client as MysqlClient } from "https://deno.land/x/mysql@v2.7.0/mod.ts";
-export type { ClientConfig as MysqlClientConfig } from "https://deno.land/x/mysql@v2.7.0/mod.ts";
+export { Client as MysqlClient } from "https://raw.githubusercontent.com/kuzivany/mysql/2.7.1/mod.ts";
+export type { ClientConfig as MysqlClientConfig } from "https://raw.githubusercontent.com/kuzivany/mysql/2.7.1/mod.ts";
 export { Client as PostgresClient } from "https://deno.land/x/postgres@v0.4.5/mod.ts";
 export {
   DB as SqliteDB,
